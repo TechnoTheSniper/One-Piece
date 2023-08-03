@@ -1,0 +1,104 @@
+/**
+ * @name Grey Rain
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --main-color: #6C6C6D;
+  --hover-color: #434344;
+  --success-color: #B6B9B8;
+  --danger-color: #000000;
+  --url-color: #626E6B;
+  --background-image: url('https://64.media.tumblr.com/81a8ac7e0117a3da2fe6e0e5131b8d4b/tumblr_nh3dv4yJsg1txt22yo1_500.gif');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 143%;
+  --background-saturation: 100%;
+  --background-grayscale: 100%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://i.pinimg.com/originals/ce/c6/e3/cec6e32092bd0fd390601949e0eb90f1.gif');
+  --user-popout-position: center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 123%;
+  --user-popout-contrast: 133%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 100%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 0px;
+  --user-modal-image: url('https://media.tenor.com/u2ZSIo7dv08AAAAC/rain-aesthetic.gif');
+  --user-modal-position: center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 96%;
+  --user-modal-contrast: 192%;
+  --user-modal-saturation: 119%;
+  --user-modal-grayscale: 100%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 0px;
+  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
+  --home-position: center;
+  --home-size: 40px;
+  --channel-unread: var(--main-color);
+  --channel-color: rgba(255,255,255,0.3);
+  --muted-color: rgba(255,255,255,0.1);
+  --online-color: #FFFFFF;
+  --idle-color: #060606;
+  --dnd-color: #777777;
+  --streaming-color: #040404;
+  --offline-color: #616161;
+  --main-font: gg sans;
+  --code-font: Consolas;
+  --channels-width: 175px;
+  --members-width: 175px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 1.5px;
+  --rs-medium-width: 1.5px;
+  --rs-large-width: 1.5px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #FFFFFF;
+  --rs-idle-color: #3E3E3E;
+  --rs-dnd-color: #8C8C8C;
+  --rs-offline-color: #000000;
+  --rs-streaming-color: #7A7A7A;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
